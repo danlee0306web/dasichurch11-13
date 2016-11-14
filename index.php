@@ -102,9 +102,9 @@ $(function(){
    <div class="Content">
      <div class="Wrap">
        <img src="uploads/news/new-02.whitebook.jpg" alt="" class="NewsImg">
-       <p class="NewsDate">2016/09/18 金句</p>
-       <p class="NewsTitle">恁是耶和華-恁上帝的子女(申命記14:1a)</p>
-       <p class="NewsTitle">你們是上主-你們上帝的兒女(申命記14:1a)</p>
+       <p class="NewsDate">2016/11/13 金句</p>
+       <p class="NewsTitle">恁欲聽見交戰及擾亂的事,彼時呣免驚惶；因為諸個代誌的確先有,總是末期無連鞭到(路加福音21:9)</p>
+       <p class="NewsTitle">當你們聽見戰爭和叛亂得消息時,不用害怕。這些事必然會先發生；但是這並不是說歷史的終局快到了。(路加福音21:9)</p>
        <p class="NewsTitle"></p>
        <p class="NewsTitle"></p>
      </div>
